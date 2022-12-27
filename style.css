@@ -1,0 +1,21 @@
+body{
+	background-color : #101010;
+	color : #905030;
+}
+.btn{
+	background-color : #202020;
+	color : #905030;
+	border : solid 3px #202020;
+	font-size : 20px;
+}
+#canvas{
+	background-color : #303030;
+}
+#headline{
+	font-size : 1cm;
+}
+#headlineDiv{
+	background-color : #151515;
+	border : solid 3px #151515;
+	text-align : center;
+}
